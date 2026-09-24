@@ -5,13 +5,14 @@ This is a NestJS Starter based on [Nest](https://github.com/nestjs/nest).
 ## Prerequisites
 
 - [Node](https://nodejs.org/) (Make sure you have the node 24+ installed)
+- [Corepack](https://nodejs.org/api/corepack.html) enabled (`corepack enable`) so the Yarn version pinned in `package.json` is used automatically
 
 ## Getting Started
 
 1. Clone the repository `gh repo clone piotrlewandowski/nestjs-starter` (or if you're not using GitHub CLI: `git clone git@github.com:piotrlewandowski/nestjs-starter.git`)
-2. If you're using NVM run `nvm use` inside project directory to use node version set in `.nvmrc` file
+2. If you're using NVM`nvm use`, run inside the project directory to use the node version set in `.nvmrc` file
 3. Run `yarn install` to install all the dependencies
-4. To begin development task, run `yarn start:dev`
+4. To begin a development task, run `yarn start:dev`
 5. Open [http://localhost:3000/api](http://localhost:3000/api)
 
 ## Available commands
