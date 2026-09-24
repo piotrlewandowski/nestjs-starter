@@ -4,7 +4,7 @@ This is a NestJS Starter based on [Nest](https://github.com/nestjs/nest).
 
 ## Prerequisites
 
-- [Node](https://nodejs.org/) (Make sure you have the node 14+ installed)
+- [Node](https://nodejs.org/) (Make sure you have the node 24+ installed)
 
 ## Getting Started
 
